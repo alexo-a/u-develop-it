@@ -1,0 +1,27 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexo-a/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexo-a/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/alexo-a/u-develop-it#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.3.0"
+  }
+}
